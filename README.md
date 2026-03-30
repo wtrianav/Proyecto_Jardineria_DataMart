@@ -51,7 +51,7 @@ El proyecto se desarrolló en tres fases principales:
 │   └── BK_Jardineria_Staging.sql              # Respaldo del área de staging.
 │
 └── README.md                                  # Este archivo.
-
+```
 
 ## 🛠️ Tecnologías Utilizadas
 * **Motor de Base de Datos:** MySQL
@@ -69,4 +69,4 @@ Para reproducir este entorno de manera local, ejecuta los scripts ubicados en la
 
 ## 👨‍💻 Autor
 * **[Wilmer Andrés Triana Vega]** - *Análisis, Modelado de Datos y Desarrollo SQL.*
-```
+
