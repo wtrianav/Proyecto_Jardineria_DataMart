@@ -32,19 +32,20 @@ El proyecto se desarrolló en tres fases principales:
 📁 Proyecto_Jardineria_DataMart
 │
 ├── 📂 01_Documentacion/
-│   └── Informes_Proyecto_Jardineria_APA.pdf   # Documentos formales con análisis, planteamiento y conclusiones.
+│   └── Evidencia de Aprendizaje 1. Modelo estrella de un Data Mart.pdf   # Documentos formales con análisis, planteamiento y conclusiones.
+│   └── Evidencia de Aprendizaje 2. Creación de una base de datos de Staging.pdf
 │
 ├── 📂 02_Modelado/
 │   ├── Modelo_Relacional_Original.jpg         # DER de la base de datos OLTP.
 │   └── Modelo_Estrella_DataMart.png           # Diseño del esquema en estrella resultante.
 │
 ├── 📂 03_Scripts_SQL/
-│   ├── 01_Creacion_Jardineria_Original.sql    # Script original con datos limpios y corregidos.
-│   ├── 02_Creacion_Staging.sql                # Script ETL (Extracción a área de Staging).
-│   └── 03_Creacion_Jardineria_DataMart.sql    # DDL del modelo dimensional en estrella.
+│   ├── Creacion_Jardineria_Original.sql    # Script original con datos limpios y corregidos.
+│   ├── Creacion_Staging.sql                # Script ETL (Extracción a área de Staging).
+│   └── Creacion_Jardineria_DataMart.sql    # DDL del modelo dimensional en estrella.
 │
 ├── 📂 04_Calidad_Datos/
-│   └── 04_Pruebas_Calidad.sql                 # Consultas de auditoría (Completitud, Integridad, Validez, Unicidad).
+│   └── Pruebas_Calidad.sql                 # Consultas de auditoría (Completitud, Integridad, Validez, Unicidad).
 │
 ├── 📂 05_Backups/
 │   ├── BK_Jardineria_Original.sql             # Respaldo de la base de datos fuente.
